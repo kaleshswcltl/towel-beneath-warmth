@@ -1,5 +1,5 @@
 [versions]
-bud = "2.23.1"
+bud = "2.25.4"
 
 [libraries]
 bud = { module = "org.apache.logging.log4j:log4j-slf4j2-impl", version.ref = "bud" }
